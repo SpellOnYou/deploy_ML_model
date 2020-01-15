@@ -1,5 +1,7 @@
 FROM python:3.7-slim-stretch
 
+RUN Python3.7 -m pip install pillow
+
 RUN apt-get update && apt-get install -y git python3-dev gcc \
     && rm -rf /var/lib/apt/lists/*
 
