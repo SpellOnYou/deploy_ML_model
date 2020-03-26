@@ -5,4 +5,4 @@
 
 ## Website deployment
 
-branch [website](https://github.com/SpellOnYou/ML-toy-project/website)
+branch [website](https://github.com/SpellOnYou/ML-toy-project/tree/website)
