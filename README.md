@@ -11,6 +11,12 @@ branch [website](https://github.com/SpellOnYou/deploy_ML_model/tree/website/)
 
 ## 2. Converting Pytorch to Tensorflow 
 
+1. convert pytorch params and models to onnx format (with pytorch model)
+2. onnx file to `checkpoint meta` file of tensorflow
+3. meta to tensorflow `protbuf`
+
+You can find whole the code here: [Colab](https://colab.research.google.com/drive/1SxlrvdVj8ozRo27dnwfAju83q5qlwZZg)
+
 branch [onnx](https://github.com/SpellOnYou/ML-toy-project/tree/onnx/)
 
 ---
