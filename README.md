@@ -5,8 +5,8 @@
 
 ## Website deployment
 
-branch [website](https://github.com/SpellOnYou/ML-toy-project/tree/website)
+branch [website](https://github.com/SpellOnYou/deploy_ML_model/tree/website/)
 
 ## Converting Pytorch to Tensorflow 
 
-branch [onnx](https://github.com/SpellOnYou/ML-toy-project/tree/onnx)
+branch [onnx](https://github.com/SpellOnYou/ML-toy-project/tree/onnx/)
