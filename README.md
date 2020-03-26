@@ -1,8 +1,9 @@
-# ML-deployment
+### Website deployment version of classification model
 
-- repo for deploy ML model
-- Not focusing on enhance accuracy but on deploying model developed via Pytorch and Tensorflow
+used [render](https://render.com/)
 
-## Website deployment
+and refered [fast.ai document](https://course.fast.ai/deployment_render.html)
 
-branch [website](https://github.com/SpellOnYou/ML-toy-project/tree/website)
+* The .pth files should be downloaded [here](https://drive.google.com/file/d/1Lm6Q1uncdwKivHh870bsSAs_xOrVT_NR/view?usp=sharing)
+
+![](https://raw.githubusercontent.com/SpellOnYou/SpellOnYou.github.io/master/assets/images/ccars.png)
