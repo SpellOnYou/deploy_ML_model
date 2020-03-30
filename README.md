@@ -24,6 +24,9 @@ branch [onnx](https://github.com/SpellOnYou/ML-toy-project/tree/onnx/)
 #### Reference
 
 - [Medium: Running pytorch models in production](https://medium.com/styria-data-science-tech-blog/running-pytorch-models-in-production-fa09bebca622)
-  - [Origin reddit article](https://www.reddit.com/r/MachineLearning/comments/al0v4r/p_deploying_pytorch_models_using_tensorflow
+	- [Reddit : Deploying Pytorch models using Tensorflow Serving
+](https://www.reddit.com/r/MachineLearning/comments/al0v4r/p_deploying_pytorch_models_using_tensorflow)
+- [Medium: Converting a Simple Deep Learning Model from PyTorch to TensorFlow](https://towardsdatascience.com/converting-a-simple-deep-learning-model-from-pytorch-to-tensorflow-b6b353351f5d)
+- [Stackoverflow: How do I change the Signatures of my SavedModel without retraining the model?](https://stackoverflow.com/questions/42801551/how-do-i-change-the-signatures-of-my-savedmodel-without-retraining-the-model)
 - [Migrate your tensorflow from 1.x to 2.x](https://www.tensorflow.org/guide/migrate)
 - [Serving tensorflow model](https://www.tensorflow.org/tfx/serving/serving_basic)
