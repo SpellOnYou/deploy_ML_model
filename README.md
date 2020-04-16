@@ -1,7 +1,22 @@
 # ML-deployment
 
 - repo for deploy ML model
-- Not focusing on enhance accuracy but on `deploying model` developed via Pytorch and Tensorflow
+- Not focusing on enhance accuracy but on `deploying model` 
+
+
+<table>
+  <tr>
+    <td>Building ML Powered App: Going from Idea to Product</td>
+     <td>TinyML: ML with TFLite on Android and Ultra-Low-Power Microcontrollers</td>
+     <td>Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/SpellOnYou/SpellOnYou.github.io/blob/master/assets/images/ml-app.jpg" width=270 height=300></td>
+    <td><img src="https://github.com/SpellOnYou/SpellOnYou.github.io/blob/master/assets/images/tinyml.jpg width=270 height=300></td>
+    <td><img src="https://github.com/SpellOnYou/SpellOnYou.github.io/blob/master/assets/images/cloudmobile.jpg" width=270 height=300></td>
+  </tr>
+ </table>
+
 
 ## 1. Website deployment
 
