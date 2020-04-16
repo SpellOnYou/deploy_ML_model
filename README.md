@@ -6,9 +6,9 @@
 
 <table>
   <tr>
-    <td>Building ML Powered App: Going from Idea to Product</td>
-     <td>TinyML: ML with TFLite on Android and Ultra-Low-Power Microcontrollers</td>
-     <td>Practical DL for Cloud, Mobile, and Edge</td>
+    <td style="width:33%;">Building ML Powered App: Going from Idea to Product</td>
+     <td style="width:33%;">TinyML: ML with TFLite on Android and Ultra-Low-Power Microcontrollers</td>
+     <td style="width:33%;">Practical DL for Cloud, Mobile, and Edge</td>
   </tr>
   <tr>
     <td style="width:33%;"><img src="https://github.com/SpellOnYou/SpellOnYou.github.io/blob/master/assets/images/ml-app.jpg" width=270 height=300></td>
