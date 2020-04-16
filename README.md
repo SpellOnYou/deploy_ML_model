@@ -11,9 +11,9 @@
      <td>Practical DL for Cloud, Mobile, and Edge</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/SpellOnYou/SpellOnYou.github.io/blob/master/assets/images/ml-app.jpg" width=270 height=300></td>
-    <td><img src="https://github.com/SpellOnYou/SpellOnYou.github.io/blob/master/assets/images/tinyml.jpg" width=270 height=300></td>
-    <td><img src="https://github.com/SpellOnYou/SpellOnYou.github.io/blob/master/assets/images/cloudmobile.jpg" width=270 height=300></td>
+    <td style="width:33%;"><img src="https://github.com/SpellOnYou/SpellOnYou.github.io/blob/master/assets/images/ml-app.jpg" width=270 height=300></td>
+    <td style="width:33%;"><img src="https://github.com/SpellOnYou/SpellOnYou.github.io/blob/master/assets/images/tinyml.jpg" width=270 height=300></td>
+    <td style="width:33%;"><img src="https://github.com/SpellOnYou/SpellOnYou.github.io/blob/master/assets/images/cloudmobile.jpg" width=270 height=300></td>
   </tr>
  </table>
 
